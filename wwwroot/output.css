@@ -260,6 +260,9 @@
   .snap-mandatory {
     --tw-scroll-snap-strictness: mandatory;
   }
+  .snap-center {
+    scroll-snap-align: center;
+  }
   .snap-start {
     scroll-snap-align: start;
   }
